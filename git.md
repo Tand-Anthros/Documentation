@@ -145,6 +145,7 @@ git push origin master
 ```shell
 git branch -v
 ```
+- текущая ветка будет помечена "\*"
 
 для просмотра текущего идентификатора для ветки master
 ```shell
