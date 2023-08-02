@@ -6,7 +6,7 @@
 
 работы ivansglazunov:
 - [линки, case, micro, пакеты](ivansglazunov/links-case-micro-packages.md)
-- [как добавить сообщения в пакет.md](ivansglazunov/deep-create-messaging-package.md)
+- [как добавить сообщения в пакет](ivansglazunov/deep-create-messaging-package.md)
 - [что то про базу данных](ivansglazunov/deep-runkit.md)
 
 работы tand:
