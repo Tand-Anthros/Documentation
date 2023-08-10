@@ -2,7 +2,7 @@
 \* ВЫ МОЖЕТЕ ОЗНАКОМИТСЯ С УЖЕ ГОТОВЫМ МАТЕРИАЛОМ ИЛИ ПОМОЧЬ НАМ С ЕГО НАПИСАНИЕМ!
 
 #### УЖЕ СУЩЕСТВУЮЩИЕ МАТЕРИАЛЫ ПО DEEP
-вы можете использовать deep уже сейчас используйте [deep case](https://gitpod.io/start/#deepfoundation-dev-rxjvdw0x3sn "https://gitpod.io/start/#deepfoundation-dev-rxjvdw0x3sn") (gitpod)
+вы можете пользоваться deep уже сейчас используйте [deep case](https://gitpod.io/start/#deepfoundation-dev-rxjvdw0x3sn "https://gitpod.io/start/#deepfoundation-dev-rxjvdw0x3sn") (gitpod)
 
 статьи:
 - [https://ivansglazunov.notion.site/documentation-83e8d1fc18e644b6a66ff05cd3a2e157](https://ivansglazunov.notion.site/documentation-83e8d1fc18e644b6a66ff05cd3a2e157 "https://ivansglazunov.notion.site/documentation-83e8d1fc18e644b6a66ff05cd3a2e157") (линки, case, micro, пакеты) 
