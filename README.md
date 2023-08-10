@@ -5,9 +5,9 @@
 здесь будет перечень переведённых на русский язык, доработанных, оформленных и приведённых к общему [формату](tand/syntax_md.md) \*.md статей
 
 работы ivansglazunov:
-- [линки, case, micro, пакеты](ivansglazunov/links-case-micro-packages.md)
-- [как добавить сообщения в пакет](ivansglazunov/deep-create-messaging-package.md)
-- [что то про базу данных](ivansglazunov/deep-runkit.md)
+- [ ] [линки, case, micro, пакеты](ivansglazunov/links-case-micro-packages.md) (не готово)
+- [ ] [как добавить сообщения в пакет](ivansglazunov/deep-create-messaging-package.md) (не готово)
+- [ ] [что то про базу данных](ivansglazunov/deep-runkit.md) (не готово)
 
 работы tand:
-- [как писать документацию](tand/scheme.md)
+- [?] [как писать документацию](tand/scheme.md)
