@@ -10,7 +10,7 @@
 - [ ] [что то про базу данных](ivansglazunov/deep-runkit.md)
 
 работы tand:
-- [+] [как писать документацию](tand/scheme.md)
+- [x] [как писать документацию](tand/scheme.md)
 
 
 ---
