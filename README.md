@@ -5,7 +5,7 @@
 здесь будет перечень переведённых на русский язык, доработанных, оформленных и приведённых к общему [формату](tand/syntax_md.md) \*.md статей
 
 работы ivansglazunov:
-- [ ] [линки, case, micro, пакеты](ivansglazunov/links-case-micro-packages.md)
+- [ ] [линки, case, micro, пакеты](notion-deep-documentation.md)
 - [ ] [как добавить сообщения в пакет](ivansglazunov/deep-create-messaging-package.md)
 - [ ] [что то про базу данных](ivansglazunov/deep-runkit.md)
 
